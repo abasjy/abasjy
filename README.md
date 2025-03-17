@@ -1,5 +1,8 @@
 # 💫 About Me:
-I  love Programming language Python And HTML 
+Hello ,
+My name is Amirabas
+I m from Iran 
+
 
 
 ## 🌐 Socials:
