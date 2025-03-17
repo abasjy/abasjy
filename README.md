@@ -1,7 +1,6 @@
 # 💫 About Me:
 Hello ,
-My name is Amirabas
-I m from Iran 
+My name is Amirabas,I m from Iran 
 
 
 
